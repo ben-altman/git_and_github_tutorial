@@ -5,3 +5,5 @@ MY TO-DO LIST
 3. Study postgreSQL
 4. Apply for jobs
 5. Get job and live happily ever after
+6. Become a git pro
+7. Learn more, because technology always changes!
