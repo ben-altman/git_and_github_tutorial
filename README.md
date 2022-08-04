@@ -7,3 +7,5 @@ This repo is practice in reviewing git and github, and to contain some useful li
 ### How to format the MD
 
 [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), in GitHub docs.
+
+[Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
